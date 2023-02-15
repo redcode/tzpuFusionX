@@ -4,3 +4,9 @@
 [submodule "software/FusionX/src/driver/Zeta"]
 	path = software/FusionX/src/driver/Zeta
 	url = https://github.com/redcode/Zeta.git
+[submodule "software/FusionX/src/driver/6502"]
+	path = software/FusionX/src/driver/6502
+	url = https://github.com/redcode/6502.git
+[submodule "software/FusionX/src/driver/software/FusionX/src/driver/6502"]
+	path = software/FusionX/src/driver/software/FusionX/src/driver/6502
+	url = https://github.com/redcode/6502.git
